@@ -65,3 +65,6 @@ We achieve SOTA Real-ISR performance on both W4A6 and W4A4 settings based on DiT
 </details>
 
 
+## <a name="acknowledgements"></a>💡 Acknowledgements
+
+We would like to thank the developers of [DiT4SR](https://github.com/Adam-duan/DiT4SR) for their open-source contributions, which have greatly facilitated our research.
