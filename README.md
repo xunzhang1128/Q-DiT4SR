@@ -33,10 +33,10 @@
 
 ## 🔖 TODO
 
-- [ ] Release model checkpoints
-- [ ] Release inference code
-- [ ] Release quantization code
-- [ ] Release calibration set
+- [ ] Release model checkpoints.
+- [ ] Release inference code.
+- [ ] Release quantization code.
+- [ ] Release calibration set.
 
 
 ### Visual Comparison
