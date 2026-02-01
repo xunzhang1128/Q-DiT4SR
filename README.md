@@ -7,6 +7,10 @@
 <a href="https://github.com/xun04/Q-DiT4SR/stargazers" target='_blank' style="text-decoration: none;"><img src="https://img.shields.io/github/stars/xun04/Q-DiT4SR?style=social"></a>
 </div>
 
+
+[arXiv] [[supplementary material](https://github.com/xunzhang1128/Q-DiT4SR/releases/download/v1/Supplementary_Material.pdf)]
+
+
 #### 🔥🔥🔥 News
 
 - [**2026-01-31**] Repository initial release.
