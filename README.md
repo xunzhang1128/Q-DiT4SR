@@ -75,7 +75,7 @@ If you find the code helpful in your research or work, please cite the following
 ```
 @article{zhang2026qdit4sr,
   title={Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer Quantization for Real-World Image Super-Resolution},
-  author={Zhang, Xun and Yang, Kaicheng and Lu, hongliang and Qin, Haotong and Guo, yong and Zhang, Yulun},
+  author={Zhang, Xun and Yang, Kaicheng and Lu, Hongliang and Qin, Haotong and Guo, Yong and Zhang, Yulun},
   journal={arXiv preprint arXiv:2602.01273},
   year={2026}
 }
