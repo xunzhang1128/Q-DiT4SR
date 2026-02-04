@@ -1,7 +1,7 @@
 # 🚀 Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer  Quantization for Real-World Image Super-Resolution
 [Xun Zhang](https://xunzhang1128.github.io/), [Kaicheng Yang](https://github.com/racoonykc), [Hongliang Lu](https://github.com/Lukebird17), [Haotong Qin](https://github.com/htqin), [Yong Guo](https://github.com/guoyongcs) and [Yulun Zhang](https://github.com/yulunzhang).
 
-<div>
+<div align="center">
 <a href="https://github.com/xun04/Q-DiT4SR/releases" target='_blank' style="text-decoration: none;"><img src="https://img.shields.io/github/downloads/xun04/Q-DiT4SR/total?color=green&style=flat"></a>
 <a href="https://github.com/xun04/Q-DiT4SR" target='_blank' style="text-decoration: none;"><img src="https://visitor-badge.laobi.icu/badge?page_id=xun04/Q-DiT4SR"></a>
 <a href="https://github.com/xun04/Q-DiT4SR/stargazers" target='_blank' style="text-decoration: none;"><img src="https://img.shields.io/github/stars/xun04/Q-DiT4SR?style=social"></a>
