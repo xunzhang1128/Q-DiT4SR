@@ -6,7 +6,7 @@
   <a href="https://github.com/Lukebird17">Hongliang Lu</a><sup>1</sup>,
   <a href="https://github.com/htqin">Haotong Qin</a><sup>2</sup>,
   <a href="https://github.com/guoyongcs">Yong Guo</a><sup>3</sup>,
-  <a href="https://github.com/yulunzhang"><b>Yulun Zhang</b></a><sup>1*</sup>
+  <a href="https://github.com/yulunzhang"><b>Yulun Zhang</b></a><sup>1</sup>
 </p>
 
 <p align="center">
