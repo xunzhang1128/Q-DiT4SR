@@ -33,6 +33,7 @@
 ## 🔥🔥🔥 News
 
 - [**2026-01-31**] Repository initial release.
+- [**2026-05-01**] Our paper has been accepted to **ICML 2026**! 🎉🎉🎉
 
 
 ### ⭐⭐⭐ If Q-DiT4SR is helpful to your projects, please help star this repo. Thanks!
