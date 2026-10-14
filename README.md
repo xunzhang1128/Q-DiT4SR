@@ -22,7 +22,7 @@
 <div align="center">
   <a href="https://arxiv.org/abs/2602.01273" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Paper-arXiv-red?logo=arxiv"></a>
   <a href="https://github.com/xunzhang1128/Q-DiT4SR/releases/download/v1/Supplementary_Material.pdf" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Supplementary_material-Paper-orange.svg"></a>
-  <a href="https://github.com/xunzhang1128/Q-DiT4SR/releases/tag/models-v1" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Models-W4A4%20%2F%20W4A6-blue.svg"></a>
+  <a href="https://github.com/xunzhang1128/Q-DiT4SR/releases/tag/models-v1" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Quantized_Models-W4A4%20%2F%20W4A6-pink.svg"></a>
   <!-- Keep the historical page_id to preserve the accumulated visitor count. -->
   <a href="https://github.com/xunzhang1128/Q-DiT4SR" target='_blank' style="text-decoration: none;"><img src="https://visitor-badge.laobi.icu/badge?page_id=xun04/Q-DiT4SR"></a>
   <a href="https://github.com/xunzhang1128/Q-DiT4SR/releases" target='_blank' style="text-decoration: none;"><img src="https://img.shields.io/github/downloads/xunzhang1128/Q-DiT4SR/total?color=green&style=flat"></a>
