@@ -1,0 +1,1 @@
+from .transformer import SD3Transformer2DModel as SD3Transformer2DModel

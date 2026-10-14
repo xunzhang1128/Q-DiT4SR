@@ -1,0 +1,11 @@
+Q-DiT4SR research reference implementation
+
+This Stability AI Model is licensed under the Stability AI Community License, Copyright © Stability AI Ltd. All Rights Reserved.
+
+Modifications by the Q-DiT4SR authors: signed-Hadamard mixed weight quantization, global SVD and block low-rank branches, and timestep activation precision scheduling on the DiT4SR control Transformer.
+
+DiT4SR code and trained control weights: Copyright 2025 Pi-Lab, Pi-Lab License 1.0 (non-commercial use).
+Adapted model implementation: Copyright 2024 Stability AI, The HuggingFace Team and The InstantX Team; Apache-2.0 notices remain in the source files.
+Adapted LLaVA captioning code: Copyright 2023 Haotian Liu; Apache-2.0.
+
+Powered by Stability AI.

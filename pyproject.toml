@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qdit4sr"
+version = "0.3.0"
+description = "Minimal mixed-precision post-training quantization and evaluation for DiT4SR"
+requires-python = ">=3.8,<3.12"
+license = {file = "LICENSE"}
+readme = "README.md"
+dependencies = [
+  "torch==2.1.2",
+  "torchvision==0.16.2",
+  "diffusers==0.31.0",
+  "transformers==4.37.2",
+  "huggingface-hub==0.29.3",
+  "tokenizers==0.15.2",
+  "accelerate==1.0.1",
+  "pyiqa==0.1.14.1",
+  "bitsandbytes==0.45.3",
+  "safetensors==0.4.3",
+  "sentencepiece==0.2.0",
+  "Pillow==10.3.0",
+  "numpy==1.24.4",
+  "pandas==2.0.3",
+  "scipy==1.10.1",
+  "timm==0.9.16",
+  "tqdm>=4.64",
+]
+
+[project.scripts]
+qdit4sr = "qdit4sr.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["qdit4sr*"]
+
+[tool.setuptools]
+license-files = ["LICENSE", "NOTICE", "licenses/*.txt"]

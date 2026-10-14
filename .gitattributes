@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.csv -text
+*.gz binary
+*.png binary
+*.pt binary
+*.safetensors binary
