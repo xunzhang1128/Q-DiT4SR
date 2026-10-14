@@ -132,7 +132,7 @@ RealLQ250/lq/
 inputs/                     Custom LR images
 ```
 
-Paired LR/HR files must share filename stems and have ×4 dimensions. For calibration, place 32 RGB 128×128 crops from [RealSR V3](https://github.com/csjcai/RealSR) in `data/calibration/`.
+Paired LR/HR files must share filename stems and have ×4 dimensions. For calibration, place [32 RGB 128×128 crops](https://github.com/xunzhang1128/Q-DiT4SR/releases/download/calibration-v1/qdit4sr-calibration.tar.gz) from [RealSR V3](https://github.com/csjcai/RealSR) in `data/calibration/`.
 
 ---
 
